@@ -13,4 +13,4 @@ O sistema permite o registro, consulta e atualização de peças em tempo real, 
 
 ## 👨‍💻 Autor
 Levy Brandão de Souza
-Estudante de TI - Juiz de Fora/MG
+Estudante de Jogos Digitais - Juiz de Fora/MG
